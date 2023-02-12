@@ -10,4 +10,4 @@ Open the project in a code editor and run the alien_invader.py file.
 
 ## Credits
 
-Cory Metcalf (GitHub: 
+Cory Metcalf (GitHub: https://github.com/cmetcalf8/Alien-Invaders)
