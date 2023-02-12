@@ -11,3 +11,6 @@ Open the project in a code editor and run the alien_invader.py file.
 ## Credits
 
 Cory Metcalf (GitHub: https://github.com/cmetcalf8/Alien-Invaders)
+
+
+<img width="1728" alt="Screen Shot 2023-02-12 at 1 55 06 PM" src="https://user-images.githubusercontent.com/105259367/218336496-46c22a63-662f-4bf7-805d-dc104cb73803.png">
